@@ -1,4 +1,4 @@
-name: Continuous integration
+name: ci:application
 
 on:
   pull_request:

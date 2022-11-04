@@ -1,4 +1,4 @@
-name: Continuous delivery
+name: cd:test:deploy
 
 on:
   push:
